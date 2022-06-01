@@ -8,8 +8,8 @@ export const Loader = () => {
         size={90}
         thickness={100}
         speed={120}
-        color="#0804f3"
-        secondaryColor="#cc50ff"
+        color="rgb(7, 106, 104)"
+        secondaryColor="rgb(255, 175, 0"
       />
     </LoaderContainer>
   );
